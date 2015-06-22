@@ -8,3 +8,4 @@ print cat.__str__() 					# inherited from Pet class
 
 
 
+print inheritance.duck
